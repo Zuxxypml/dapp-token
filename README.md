@@ -8,8 +8,8 @@ dfx identity get-principal
 
 2. Save it somewhere.
 
-e.g. My principal id is: kspfy-gjjti-e76yd-g6ddt-gfcy4-62vxc-7k6ft-k24hw-haiuz-udtcu-xae
-2vxsx-fae
+e.g. My principal id is: #########################
+
 
 
 3. Format and store it in a command line variable:
@@ -35,7 +35,7 @@ dfx canister call token balanceOf "( $OWNER_PUBLIC_KEY )"
 dfx canister id token
 ```
 
-c6vbb-xaaaa-aaaak-qanhq-cai
+
 
 2. Save canister ID into a command line variable:
 ```
